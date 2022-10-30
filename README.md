@@ -1,4 +1,4 @@
-# Mi_TienditaReactNative
+# MiTienditaReactApp
 
 
 Desafio 3 React Native
